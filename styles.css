@@ -72,3 +72,8 @@
     margin: 5px 40px;
     line-height: 25px;
  }
+
+ .footer {
+    text-align: end;
+    font-size: 15px;
+ }
