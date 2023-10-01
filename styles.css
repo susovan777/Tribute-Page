@@ -59,3 +59,16 @@
     letter-spacing: 1px;
     text-align: justify;
  }
+
+ .biography {
+    margin: 20px 0;
+ }
+
+ .biography h3 {
+    margin: 10px 0;
+ }
+
+ .biography p {
+    margin: 5px 40px;
+    line-height: 25px;
+ }
